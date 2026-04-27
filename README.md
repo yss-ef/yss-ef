@@ -12,11 +12,15 @@ STACK:    JAVA // ANGULAR // TYPESCRIPT // WEB3
 ---
 
 ### // TECHNICAL_ECOSYSTEM
-*   **Architecture:** Java (Spring Boot), Node.js, PHP, Clean Architecture
-*   **Frontend:** Angular, React, Tailwind CSS, Flutter
-*   **Web3:** Solidity, Ethereum, Web3.js, Smart Contracts
-*   **Data & AI:** RAG Pipelines, PostgreSQL, MongoDB, Vector DBs
-*   **Infrastructure:** AWS, Docker, Linux (Fedora), GitHub Actions
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,python,c" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,tailwind,flutter,solidity" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,hibernate" />
+</p>
 
 ---
 
@@ -30,11 +34,23 @@ STACK:    JAVA // ANGULAR // TYPESCRIPT // WEB3
 
 ---
 
-### // TRANSMISSION
-[Portfolio](https://yss-ef.github.io) • [LinkedIn](https://linkedin.com/in/yss-ef) • [Email](mailto:fellahyoussef010@gmail.com)
-
+### // ANALYTICS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yss-ef&show_icons=true&theme=dark&hide_border=true&title_color=E2E2E2&text_color=A0A0A0&icon_color=E2E2E2" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yss-ef&show_icons=true&bg_color=16181A&title_color=E2E2E2&text_color=A0A0A0&icon_color=E2E2E2&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yss-ef&layout=compact&bg_color=16181A&title_color=E2E2E2&text_color=A0A0A0&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yss-ef&background=16181A&hide_border=true&stroke=E2E2E2&ring=A0A0A0&fire=E2E2E2&currStreakLabel=E2E2E2&currStreakNum=E2E2E2&sideNums=E2E2E2&sideLabels=A0A0A0&dates=A0A0A0" width="97%" />
+</div>
+
+---
+
+### // TRANSMISSION
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yss--ef-16181A?style=for-the-badge&logo=linkedin&logoColor=E2E2E2)](https://linkedin.com/in/yss-ef)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yss--ef.io-16181A?style=for-the-badge&logo=react&logoColor=E2E2E2)](https://yss-ef.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-16181A?style=for-the-badge&logo=gmail&logoColor=E2E2E2)](mailto:fellahyoussef010@gmail.com)
+
 </div>
 
 ---
