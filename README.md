@@ -1,4 +1,4 @@
-# ◈ YOUSSEF FELLAH
+# YOUSSEF FELLAH
 **Full Stack Engineer | Blockchain & AI Specialist**
 
 > Building robust architectures and intelligent systems from the ground up.
