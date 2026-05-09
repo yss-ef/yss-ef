@@ -35,18 +35,18 @@ STACK:    JAVA // ANGULAR // TYPESCRIPT // WEB3
 ---
 
 ### // TECHNICAL_PORTFOLIOS
-*   **[Spring Boot Mastery](https://github.com/yss-ef/spring-boot-portfolio)** | *Fundamentals to Enterprise Full-Stack (JWT, OAuth2, Angular)*
-*   **[Machine Learning Showcase](https://github.com/yss-ef/machine-learning-portfolio)** | *Customer Segmentation, Churn Prediction & Statistical Discovery*
-*   **[BI & ETL Pipeline](https://github.com/yss-ef/bi-etl-portfolio)** | *End-to-End Hotel Data Warehouse (Pentaho, Star Schema, PowerBI)*
-*   **[IoT Systems Lab](https://github.com/yss-ef/iot-portfolio)** | *Secure MQTT Communication & Industrial Digital Twin Simulations*
-*   **[Data Mining Discovery](https://github.com/yss-ef/data-mining-portfolio)** | *Statistical Analysis of Retail Trends & The "Sunday Effect"*
+*   **[Spring Boot Mastery](https://github.com/yss-ef/spring-boot-portfolio)** | *Production-grade microservices and secure full-stack ecosystems (JWT, OAuth2).*
+*   **[Machine Learning Showcase](https://github.com/yss-ef/machine-learning-portfolio)** | *Predictive analytics, customer intelligence, and unsupervised behavioral discovery.*
+*   **[BI & ETL Pipeline](https://github.com/yss-ef/bi-etl-portfolio)** | *Enterprise data warehousing and automated KPI orchestration via Pentaho.*
+*   **[IoT Systems Lab](https://github.com/yss-ef/iot-portfolio)** | *Secure telemetry (mTLS) and physics-based Industrial 4.0 simulations.*
+*   **[Data Mining Discovery](https://github.com/yss-ef/data-mining-portfolio)** | *Statistical pattern discovery and retail trend optimization.*
 
 ---
 
 ### // FEATURED_TOOLS
-*   **[devctl](https://github.com/yss-ef/devctl)** | *CLI Orchestrator for Spring Boot & Angular Scaffolding*
-*   **[AWS Zabbix Monitoring](https://github.com/yss-ef/aws-zabbix-monitoring)** | *Hybrid Cloud Observability Stack via Docker & EC2*
-*   **[Web3 Course Archive](https://github.com/yss-ef/decentralized-course-archive)** | *Decentralized Resource Management (Solidity, IPFS, React)*
+*   **[devctl](https://github.com/yss-ef/devctl)** | *CLI Orchestrator for Spring Boot & Angular lifecycle automation.*
+*   **[AWS Zabbix Monitoring](https://github.com/yss-ef/aws-zabbix-monitoring)** | *Hybrid Cloud Observability Stack architected on EC2 & Docker.*
+*   **[Web3 Course Archive](https://github.com/yss-ef/decentralized-course-archive)** | *Decentralized resource management leveraging Solidity, IPFS, and React.*
 
 ---
 
