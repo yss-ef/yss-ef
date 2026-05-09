@@ -71,3 +71,7 @@ STACK:    JAVA // ANGULAR // TYPESCRIPT // WEB3
 
 ---
 <p align="center"><i>"flew too close — and touched it anyway"</i></p>
+
+---
+*Authored by Youssef Fellah.*
+*Personal Project.*
