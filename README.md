@@ -13,7 +13,6 @@ STACK:    JAVA // ANGULAR // TYPESCRIPT // WEB3
 
 ### // TECHNICAL_ECOSYSTEM
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,python,c" />
   <br/>
   <img src="https://skillicons.dev/icons?i=angular,react,ts,tailwind,flutter,solidity" />
   <br/>
@@ -52,8 +51,6 @@ STACK:    JAVA // ANGULAR // TYPESCRIPT // WEB3
 
 ### // ANALYTICS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yss-ef&show_icons=true&bg_color=16181A&title_color=E2E2E2&text_color=A0A0A0&icon_color=E2E2E2&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yss-ef&layout=compact&bg_color=16181A&title_color=E2E2E2&text_color=A0A0A0&hide_border=true" width="48%" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=yss-ef&background=16181A&hide_border=true&stroke=E2E2E2&ring=A0A0A0&fire=E2E2E2&currStreakLabel=E2E2E2&currStreakNum=E2E2E2&sideNums=E2E2E2&sideLabels=A0A0A0&dates=A0A0A0" width="97%" />
 </div>
