@@ -96,7 +96,8 @@ Engineering student with a focus on architecting and executing complex software 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yss-ef&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=555&icon_color=007ACC" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yss-ef&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=555&icon_color=007ACC" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yss-ef&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=555" height="150" />
 </p>
 
 <p align="center">
