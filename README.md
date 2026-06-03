@@ -5,7 +5,7 @@ Engineering student with a focus on architecting and executing complex software 
 
 ---
 
-### 🔬 The Research Labs
+### The Research Labs
 *Specialized repositories for deep-dives into data, machine intelligence, and systems architecture.*
 
 | Portfolio | Domain Focus |
@@ -20,7 +20,7 @@ Engineering student with a focus on architecting and executing complex software 
 
 ---
 
-### 🚀 Key Projects
+### Key Projects
 *End-to-end systems and mission-critical tools.*
 
 - **[Smart Factory](https://github.com/yss-ef/smart-factory)**
@@ -34,7 +34,7 @@ Engineering student with a focus on architecting and executing complex software 
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 <details open>
 <summary><b>01. Backend & Core</b></summary>
@@ -88,7 +88,7 @@ Squash TM, Mantis BT, SoapUI, Selenium, Black-box Testing, White-box Testing
 
 ---
 
-### 📩 Digital Presence
+### Digital Presence
 [**yss-ef.github.io**](https://yss-ef.github.io) • [**LinkedIn**](https://linkedin.com/in/yss-ef) • [**Email**](mailto:fellahyoussef010@gmail.com)
 
 ---
