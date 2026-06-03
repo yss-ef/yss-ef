@@ -34,62 +34,62 @@ Engineering student with a focus on architecting and executing complex software 
 
 ---
 
-### Technical Arsenal
+### Skills
 
-<details open>
-<summary><b>01. Backend & Core</b></summary>
-Java, Spring Boot, Spring Security, PHP, Node.js, Python, Solidity
-</details>
+#### 01. Backend & Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
-<details open>
-<summary><b>02. Frontend</b></summary>
-Angular, React.js, Flutter, TypeScript, JavaScript, HTML5 / SCSS, Tailwind, Web3.js
-</details>
+#### 02. Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
 
-<details open>
-<summary><b>03. Data & Databases</b></summary>
-PostgreSQL, MySQL, SQL / PL-SQL, MongoDB, Hibernate / JPA, Power BI
-</details>
+#### 03. Data & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-<details>
-<summary><b>04. Data Analytics</b></summary>
-Data Visualization, Tableau, Exploratory Analysis, Reporting / Dashboards
-</details>
+#### 04. Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white)
 
-<details open>
-<summary><b>05. Cloud & Infrastructure</b></summary>
-AWS (EC2 / S3 / RDS), Linux, Windows Server, Docker, Zabbix, Git / CI-CD, OpenStack
-</details>
+#### 05. AI & Web3
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6F61?style=flat)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
 
-<details>
-<summary><b>06. Security & Networks</b></summary>
-Firewall Management, OPNsense, Endpoint Security, IoT Network Config
-</details>
-
-<details open>
-<summary><b>07. AI & Integration</b></summary>
-RAG Systems, AI Integration, LLM APIs, Document Generation, Python AI Libs
-</details>
-
-<details>
-<summary><b>08. Blockchain & Web3</b></summary>
-Solidity, Smart Contracts, Web3.js, IPFS, Ethereum
-</details>
-
-<details>
-<summary><b>09. Methods & DevOps</b></summary>
-Agile / Scrum, UML, REST APIs, JWT / RBAC, Postman, DevOps
-</details>
-
-<details>
-<summary><b>10. Testing & QA</b></summary>
-Squash TM, Mantis BT, SoapUI, Selenium, Black-box Testing, White-box Testing
-</details>
+#### 06. Methods, DevOps & QA
+![Agile/Scrum](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
+![UML](https://img.shields.io/badge/UML-000000?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Squash TM](https://img.shields.io/badge/Squash_TM-E43926?style=flat)
 
 ---
 
 ### Digital Presence
-[**yss-ef.github.io**](https://yss-ef.github.io) • [**LinkedIn**](https://linkedin.com/in/yss-ef) • [**Email**](mailto:fellahyoussef010@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yss--ef.github.io-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://yss-ef.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef_Fellah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yss-ef)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fellahyoussef010@gmail.com)
 
 ---
 
