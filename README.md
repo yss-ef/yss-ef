@@ -87,11 +87,11 @@ Engineering student with a focus on architecting and executing complex software 
 
 ### Digital Presence
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yss--ef.github.io-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://yss-ef.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%20-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://yss-ef.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef_Fellah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yss-ef)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yss-ef)
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fellahyoussef010@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fellahyoussef010@gmail.com)
 
 ---
 
