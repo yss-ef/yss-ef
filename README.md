@@ -6,13 +6,17 @@ Engineering student with a focus on architecting and executing complex software 
 ---
 
 ### 🔬 The Research Labs
-*Specialized repositories for deep-dives into data, machine intelligence, and connectivity.*
+*Specialized repositories for deep-dives into data, machine intelligence, and systems architecture.*
 
 | Lab | Focus Area |
 | :--- | :--- |
+| [**JAVA-LAB**](https://github.com/yss-ef/spring-boot-portfolio) | Enterprise software development and Spring Boot architectures. |
 | [**ML-LAB**](https://github.com/yss-ef/machine-learning-portfolio) | Predictive modeling, analytical intelligence, and RAG pipelines. |
-| [**IOT-LAB**](https://github.com/yss-ef/iot-portfolio) | Secure communication, industrial connectivity, and sensor mesh networks. |
+| [**SI-LAB**](https://github.com/yss-ef/si-portfolio) | Odoo 17, ERP customization, and BPMN system modeling. |
+| [**IOT-LAB**](https://github.com/yss-ef/iot-portfolio) | Secure communication, industrial connectivity, and sensor networks. |
+| [**FLUTTER-LAB**](https://github.com/yss-ef/flutter-interactive-portfolio) | Interactive cross-platform mobile systems and responsive UI. |
 | [**DATA-LAB**](https://github.com/yss-ef/data-mining-portfolio) | Statistical validation, exploratory mining, and pattern recognition. |
+| [**BI-LAB**](https://github.com/yss-ef/bi-etl-portfolio) | Business Intelligence and ETL data orchestration pipelines. |
 
 ---
 
