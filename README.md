@@ -1,7 +1,10 @@
 # Youssef Fellah
 **Software Engineer & System Architect**
 
-Engineering student with a focus on architecting and executing complex software systems across the full technology stack.
+---
+
+### Profile
+Engineering student with a focus on architecting and executing complex software systems across the full technology stack. Dedicated to high-performance architectures and mission-critical system design.
 
 ---
 
@@ -23,65 +26,82 @@ Engineering student with a focus on architecting and executing complex software 
 ### Key Projects
 *End-to-end systems and mission-critical tools.*
 
-- **[Smart Factory](https://github.com/yss-ef/smart-factory)**
-  AI-powered quality control using YOLOv8, MQTT, and real-time inference.
-- **[Decentralized Archive](https://github.com/yss-ef/decentralized-course-archive)**
-  Immutable Web3 academic storage powered by Solidity and Ethereum.
-- **[DEVCTL](https://github.com/yss-ef/devctl)**
-  CLI orchestration for rapid scaffolding of Spring Boot, Angular, and Docker environments.
-- **[AWS-Zabbix](https://github.com/yss-ef/aws-zabbix-monitoring)**
-  Automated cloud infrastructure monitoring and observability on AWS.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Smart Factory</h4>
+      <p>AI-powered quality control using YOLOv8, MQTT, and real-time inference. Focused on industrial automation and edge intelligence.</p>
+      <a href="https://github.com/yss-ef/smart-factory">View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Decentralized Archive</h4>
+      <p>Immutable Web3 academic storage powered by Solidity and Ethereum. Ensures secure, transparent document orchestration.</p>
+      <a href="https://github.com/yss-ef/decentralized-course-archive">View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>DEVCTL</h4>
+      <p>CLI orchestration for rapid scaffolding of Spring Boot, Angular, and Docker environments. Built for developer productivity.</p>
+      <a href="https://github.com/yss-ef/devctl">View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>AWS-Zabbix</h4>
+      <p>Automated cloud infrastructure monitoring and observability on AWS. Designed for high availability and proactive alerts.</p>
+      <a href="https://github.com/yss-ef/aws-zabbix-monitoring">View Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Skills
 
-#### 01. Backend & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-
-#### 02. Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
-
-#### 03. Data & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-
-#### 04. Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white)
-
-#### 05. AI & Web3
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6F61?style=flat)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
-
-#### 06. Methods, DevOps & QA
-![Agile/Scrum](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
-![UML](https://img.shields.io/badge/UML-000000?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Squash TM](https://img.shields.io/badge/Squash_TM-E43926?style=flat)
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Backend & Core</strong><br/>
+      Java · Spring Boot<br/>
+      Spring Security · PHP<br/>
+      Node.js · Python<br/>
+      Solidity
+    </td>
+    <td width="33%" valign="top">
+      <strong>Frontend</strong><br/>
+      Angular · React.js<br/>
+      Flutter · TypeScript<br/>
+      JavaScript · SCSS<br/>
+      Tailwind · Web3.js
+    </td>
+    <td width="33%" valign="top">
+      <strong>Data & Cloud</strong><br/>
+      PostgreSQL · MySQL<br/>
+      MongoDB · Hibernate<br/>
+      AWS · Docker<br/>
+      Linux · OpenStack
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>AI & Web3</strong><br/>
+      RAG Systems · LLM APIs<br/>
+      Smart Contracts<br/>
+      IPFS · Ethereum
+    </td>
+    <td width="33%" valign="top">
+      <strong>DevOps & QA</strong><br/>
+      Agile · UML · Postman<br/>
+      Git · CI/CD · Zabbix<br/>
+      Selenium · Squash TM
+    </td>
+    <td width="33%" valign="top">
+      <strong>Analytics</strong><br/>
+      Power BI · Tableau<br/>
+      Exploratory Analysis<br/>
+      Reporting
+    </td>
+  </tr>
+</table>
 
 ---
 
