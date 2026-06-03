@@ -1,7 +1,7 @@
 # Youssef Fellah
 **Software Engineer & System Architect**
 
-I engineer high-performance architectures and intelligent systems. Specializing in bridging the gap between clean system design and production-ready AI integration.
+Engineering student with a focus on architecting and executing complex software systems across the full technology stack.
 
 ---
 
