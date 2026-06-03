@@ -1,5 +1,5 @@
 # Youssef Fellah
-**Software Engineering Lead | AI Architect**
+**Software Engineer & System Architect**
 
 I engineer high-performance architectures and intelligent systems. Specializing in bridging the gap between clean system design and production-ready AI integration.
 
