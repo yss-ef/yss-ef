@@ -1,25 +1,42 @@
 # Youssef Fellah
 **Software Engineer & System Architect**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ind4x.github.io-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://ind4x.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef_Fellah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yss-ef)
+[![Email](https://img.shields.io/badge/Email-fellahyoussef010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fellahyoussef010@gmail.com)
+
 ---
 
 ### Profile
-Engineering student with a focus on architecting and executing complex software systems across the full technology stack. Dedicated to high-performance architectures and mission-critical system design.
+Engineering student with a focus on architecting and executing complex software systems across the full technology stack. Dedicated to high-performance architectures, mission-critical system design, and edge intelligence.
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ind4x&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ind4x&layout=compact&theme=dark&hide_progress=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ind4x&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### The Research Labs
 *Specialized repositories for deep-dives into data, machine intelligence, and systems architecture.*
 
-| Portfolio | Domain Focus |
-| :--- | :--- |
-| [**JAVA-LAB**](https://github.com/yss-ef/spring-boot-portfolio) | Enterprise software development and Spring Boot architectures. |
-| [**ML-LAB**](https://github.com/yss-ef/machine-learning-portfolio) | Predictive modeling, analytical intelligence, and RAG pipelines. |
-| [**SI-LAB**](https://github.com/yss-ef/si-portfolio) | Odoo 17, ERP customization, and BPMN system modeling. |
-| [**IOT-LAB**](https://github.com/yss-ef/iot-portfolio) | Secure communication, industrial connectivity, and sensor networks. |
-| [**FLUTTER-LAB**](https://github.com/yss-ef/flutter-interactive-portfolio) | Interactive cross-platform mobile systems and responsive UI. |
-| [**DATA-LAB**](https://github.com/yss-ef/data-mining-portfolio) | Statistical validation, exploratory mining, and pattern recognition. |
-| [**BI-LAB**](https://github.com/yss-ef/bi-etl-portfolio) | Business Intelligence and ETL data orchestration pipelines. |
+| Portfolio | Domain Focus | Link |
+| :--- | :--- | :--- |
+| **JAVA-LAB** | Enterprise software development and Spring Boot architectures. | [View Repo](https://github.com/ind4x/spring-boot-portfolio) |
+| **ML-LAB** | Predictive modeling, analytical intelligence, and RAG pipelines. | [View Repo](https://github.com/ind4x/machine-learning-portfolio) |
+| **SI-LAB** | Odoo 17, ERP customization, and BPMN system modeling. | [View Repo](https://github.com/ind4x/si-portfolio) |
+| **IOT-LAB** | Secure communication, industrial connectivity, and sensor networks. | [View Repo](https://github.com/ind4x/iot-portfolio) |
+| **FLUTTER-LAB** | Interactive cross-platform mobile systems and responsive UI. | [View Repo](https://github.com/ind4x/flutter-interactive-portfolio) |
+| **DATA-LAB** | Statistical validation, exploratory mining, and pattern recognition. | [View Repo](https://github.com/ind4x/data-mining-portfolio) |
+| **BI-LAB** | Business Intelligence and ETL data orchestration pipelines. | [View Repo](https://github.com/ind4x/bi-etl-portfolio) |
 
 ---
 
@@ -31,31 +48,31 @@ Engineering student with a focus on architecting and executing complex software 
     <td width="50%" valign="top">
       <h4>Smart Factory</h4>
       <p>AI-powered quality control using YOLOv8, MQTT, and real-time inference. Focused on industrial automation and edge intelligence.</p>
-      <a href="https://github.com/yss-ef/smart-factory">View Repository</a>
+      <a href="https://github.com/ind4x/smart-factory">View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h4>Decentralized Archive</h4>
       <p>Immutable Web3 academic storage powered by Solidity and Ethereum. Ensures secure, transparent document orchestration.</p>
-      <a href="https://github.com/yss-ef/decentralized-course-archive">View Repository</a>
+      <a href="https://github.com/ind4x/decentralized-course-archive">View Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>DEVCTL</h4>
       <p>CLI orchestration for rapid scaffolding of Spring Boot, Angular, and Docker environments. Built for developer productivity.</p>
-      <a href="https://github.com/yss-ef/devctl">View Repository</a>
+      <a href="https://github.com/ind4x/devctl">View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h4>AWS-Zabbix</h4>
       <p>Automated cloud infrastructure monitoring and observability on AWS. Designed for high availability and proactive alerts.</p>
-      <a href="https://github.com/yss-ef/aws-zabbix-monitoring">View Repository</a>
+      <a href="https://github.com/ind4x/aws-zabbix-monitoring">View Repository</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### Skills
+### Technical Arsenal
 
 #### 01. Backend & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -106,18 +123,11 @@ Engineering student with a focus on architecting and executing complex software 
 
 ---
 
-### Digital Presence
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%20-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://yss-ef.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yss-ef)
-[![Email](https://img.shields.io/badge/Email-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fellahyoussef010@gmail.com)
-
----
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/yss-ef?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Africa%2FCasablanca" />
+  <img src="https://metrics.lecoq.io/ind4x?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Africa%2FCasablanca" />
 </p>
 
 <p align="center">
   <i>"flew too close — and touched it anyway"</i>
 </p>
+
