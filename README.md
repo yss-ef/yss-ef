@@ -15,12 +15,16 @@ Engineering student with a focus on architecting and executing complex software 
 ### GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ind4x&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ind4x&layout=compact&theme=dark&hide_progress=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ind4x&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ind4x&layout=compact&theme=dark&hide_progress=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ind4x&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ind4x&theme=react-dark" alt="Activity Graph" />
 </p>
 
 ---
